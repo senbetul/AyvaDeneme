@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-)Singleton", "1-)Singleton", "{A4492AF1-9249-4A04-A154-A1AFB10526DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{FBD4FE33-F41C-4132-B7D2-171B77D47799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPatternLoadBalancer", "SingletonPatternLoadBalancer\SingletonPatternLoadBalancer.csproj", "{9555EC26-584E-4397-B567-53B22E9E4BEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-)Faktory", "2-)Faktory", "{6B27C136-7DBE-4DEC-9B5D-55B1ED07BD1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaktoryMethod", "FaktoryMethod\FaktoryMethod.csproj", "{551CBCA8-6EBF-4754-A181-7D8F9F34E196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{37CF3DE7-07F9-46FB-B70E-227931F85C14}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-)Abstract Factory", "3-)Abstract Factory", "{B1758271-4D56-401D-AAC6-A3F5E0FA08A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstactFactoryMethod", "AbstactFactoryMethod\AbstactFactoryMethod.csproj", "{FF562A9E-5C36-4238-BCF9-D1A71BA70079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFaktoryPattern", "AbstractFaktoryPattern\AbstractFaktoryPattern.csproj", "{31EBAA48-2C59-4D48-B18B-6C5F08583949}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository Pattern", "Repository Pattern", "{7C4AD60C-2CF4-4842-B5D0-AEDFB714C1B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StokTakip.Entity", "StokTakip.Entity\StokTakip.Entity.csproj", "{286C583A-4AC6-4FF5-8B4F-BFE71907E5F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StokTakip.DAL", "StokTakip.DAL\StokTakip.DAL.csproj", "{A810E754-BA09-4D14-837E-C9BE6045F185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBD4FE33-F41C-4132-B7D2-171B77D47799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD4FE33-F41C-4132-B7D2-171B77D47799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD4FE33-F41C-4132-B7D2-171B77D47799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD4FE33-F41C-4132-B7D2-171B77D47799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9555EC26-584E-4397-B567-53B22E9E4BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9555EC26-584E-4397-B567-53B22E9E4BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9555EC26-584E-4397-B567-53B22E9E4BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9555EC26-584E-4397-B567-53B22E9E4BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{551CBCA8-6EBF-4754-A181-7D8F9F34E196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{551CBCA8-6EBF-4754-A181-7D8F9F34E196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{551CBCA8-6EBF-4754-A181-7D8F9F34E196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{551CBCA8-6EBF-4754-A181-7D8F9F34E196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37CF3DE7-07F9-46FB-B70E-227931F85C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CF3DE7-07F9-46FB-B70E-227931F85C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CF3DE7-07F9-46FB-B70E-227931F85C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CF3DE7-07F9-46FB-B70E-227931F85C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF562A9E-5C36-4238-BCF9-D1A71BA70079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF562A9E-5C36-4238-BCF9-D1A71BA70079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF562A9E-5C36-4238-BCF9-D1A71BA70079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF562A9E-5C36-4238-BCF9-D1A71BA70079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31EBAA48-2C59-4D48-B18B-6C5F08583949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EBAA48-2C59-4D48-B18B-6C5F08583949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EBAA48-2C59-4D48-B18B-6C5F08583949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EBAA48-2C59-4D48-B18B-6C5F08583949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{286C583A-4AC6-4FF5-8B4F-BFE71907E5F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286C583A-4AC6-4FF5-8B4F-BFE71907E5F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286C583A-4AC6-4FF5-8B4F-BFE71907E5F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286C583A-4AC6-4FF5-8B4F-BFE71907E5F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A810E754-BA09-4D14-837E-C9BE6045F185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A810E754-BA09-4D14-837E-C9BE6045F185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A810E754-BA09-4D14-837E-C9BE6045F185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A810E754-BA09-4D14-837E-C9BE6045F185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FBD4FE33-F41C-4132-B7D2-171B77D47799} = {A4492AF1-9249-4A04-A154-A1AFB10526DE}
+		{9555EC26-584E-4397-B567-53B22E9E4BEC} = {A4492AF1-9249-4A04-A154-A1AFB10526DE}
+		{551CBCA8-6EBF-4754-A181-7D8F9F34E196} = {6B27C136-7DBE-4DEC-9B5D-55B1ED07BD1A}
+		{37CF3DE7-07F9-46FB-B70E-227931F85C14} = {6B27C136-7DBE-4DEC-9B5D-55B1ED07BD1A}
+		{FF562A9E-5C36-4238-BCF9-D1A71BA70079} = {B1758271-4D56-401D-AAC6-A3F5E0FA08A2}
+		{31EBAA48-2C59-4D48-B18B-6C5F08583949} = {B1758271-4D56-401D-AAC6-A3F5E0FA08A2}
+		{286C583A-4AC6-4FF5-8B4F-BFE71907E5F8} = {7C4AD60C-2CF4-4842-B5D0-AEDFB714C1B1}
+		{A810E754-BA09-4D14-837E-C9BE6045F185} = {7C4AD60C-2CF4-4842-B5D0-AEDFB714C1B1}
+	EndGlobalSection
+EndGlobal
