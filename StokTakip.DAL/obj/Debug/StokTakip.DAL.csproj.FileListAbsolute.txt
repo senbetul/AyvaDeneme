@@ -1,0 +1,12 @@
+C:\Users\betul.sen\Documents\Visual Studio 2015\Projects\DesignPatterns_25022019\StokTakip.DAL\obj\Debug\StokTakip.DAL.csprojResolveAssemblyReference.cache
+C:\Users\betul.sen\Documents\Visual Studio 2015\Projects\DesignPatterns_25022019\StokTakip.DAL\bin\Debug\StokTakip.DAL.dll.config
+C:\Users\betul.sen\Documents\Visual Studio 2015\Projects\DesignPatterns_25022019\StokTakip.DAL\bin\Debug\StokTakip.DAL.dll
+C:\Users\betul.sen\Documents\Visual Studio 2015\Projects\DesignPatterns_25022019\StokTakip.DAL\bin\Debug\StokTakip.DAL.pdb
+C:\Users\betul.sen\Documents\Visual Studio 2015\Projects\DesignPatterns_25022019\StokTakip.DAL\bin\Debug\EntityFramework.dll
+C:\Users\betul.sen\Documents\Visual Studio 2015\Projects\DesignPatterns_25022019\StokTakip.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\betul.sen\Documents\Visual Studio 2015\Projects\DesignPatterns_25022019\StokTakip.DAL\bin\Debug\StokTakip.Entity.dll
+C:\Users\betul.sen\Documents\Visual Studio 2015\Projects\DesignPatterns_25022019\StokTakip.DAL\bin\Debug\StokTakip.Entity.pdb
+C:\Users\betul.sen\Documents\Visual Studio 2015\Projects\DesignPatterns_25022019\StokTakip.DAL\bin\Debug\EntityFramework.xml
+C:\Users\betul.sen\Documents\Visual Studio 2015\Projects\DesignPatterns_25022019\StokTakip.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\betul.sen\Documents\Visual Studio 2015\Projects\DesignPatterns_25022019\StokTakip.DAL\obj\Debug\StokTakip.DAL.dll
+C:\Users\betul.sen\Documents\Visual Studio 2015\Projects\DesignPatterns_25022019\StokTakip.DAL\obj\Debug\StokTakip.DAL.pdb
